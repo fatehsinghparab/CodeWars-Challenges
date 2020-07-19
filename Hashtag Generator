@@ -6,4 +6,3 @@ def generate_hashtag(s):
         return False
     else:
         return (string)
-    #your code here
